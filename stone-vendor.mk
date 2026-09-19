@@ -48,6 +48,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/stone/proprietary/vendor/etc/audio/sku_holi/audio_platform_info_qrd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_holi/audio_platform_info_qrd.xml \
     vendor/xiaomi/stone/proprietary/vendor/etc/audio/sku_holi/bluetooth_qti_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_holi/bluetooth_qti_audio_policy_configuration.xml \
     vendor/xiaomi/stone/proprietary/vendor/etc/audio/sku_holi/bluetooth_qti_hearing_aid_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_holi/bluetooth_qti_hearing_aid_audio_policy_configuration.xml \
+    vendor/xiaomi/stone/proprietary/vendor/etc/audio/sku_holi/mixer_paths.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_holi/mixer_paths.xml \
     vendor/xiaomi/stone/proprietary/vendor/etc/audio/sku_holi/mixer_paths_qrd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_holi/mixer_paths_qrd.xml \
     vendor/xiaomi/stone/proprietary/vendor/etc/audio/sku_holi/mixer_paths_qrdsku1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_holi/mixer_paths_qrdsku1.xml \
     vendor/xiaomi/stone/proprietary/vendor/etc/audio/sku_holi/mixer_paths_usbc.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_holi/mixer_paths_usbc.xml \
